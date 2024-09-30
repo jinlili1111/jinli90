@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
                 </p>
                 <p class="small">
                     <br/><br/>
-                    <a href="https://github.com/casksteven/Casks-server" target="_blank" rel="sponsored">源码</a>
+                    <a href="https://pan.quark.cn/s/129ef2aa99c6" target="_blank" rel="sponsored">游戏资源</a>
                 </p>
 
             </footer>

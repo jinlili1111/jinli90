@@ -19,7 +19,7 @@ export default function App({ server = "sg" }) {
   }
 
   const { data, error } = useSWR(
-    `https://${host}/status/server`,
+    `http://${host}/status/server`,
     fetcher
   );
 
