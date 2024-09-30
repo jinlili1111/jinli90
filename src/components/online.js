@@ -8,7 +8,7 @@ export default function App({ server = "sg" }) {
   var host;
   var seraddress;
   if(server == "近离3.4GIO真端"){
-        host = "a.jinli90.com:20011"
+        host = "a.jinli90.com:20011/api?cmd=1101"
         seraddress = "三端同步：a.jinli90.com:4433"
   } else if(server == "星铁2.5剧情端"){
         host = "jinli90.com:20001"
